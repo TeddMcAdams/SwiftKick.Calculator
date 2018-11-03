@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EATdigital.SwiftKick.Calculator</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://unlicense.org</licenseUrl>
+    <projectUrl>https://github.com/TeddMcAdams/SwiftKick.Calculator</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Calculator service for basic adding, subtracting, multiplying, and dividing.</description>
+    <releaseNotes>Initial release of the Calculator service.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Calculator Inedo Demo</tags>
+  </metadata>
+</package>
